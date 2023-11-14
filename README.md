@@ -9,8 +9,7 @@ N/A
 ## Usage
 
 The daily scheduler calender is meant to store user's events for each hour of the day.
- https://odunsikazeem.github.io/Code-Quiz/
- <img src="./assets/images/Screenshot (75).png" alt=Landing-Page/>
+
 
 
 ## Credit
